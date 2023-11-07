@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import ttk
 from PIL import Image, ImageTk, ImageDraw, ImageFont
 from class_bag import bag
-from plus_minus import *
 from PIL import Image, ImageDraw, ImageOps
 from tkinter import filedialog
 from tkinter.filedialog import askopenfile
